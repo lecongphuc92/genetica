@@ -1,0 +1,6 @@
+- Một người mẹ có thể tạo profile cho chính mình hoặc cho các con (có nhiều gen profile)
+- Mỗi gen profile sẽ chỉ có 1 mẫu -> có các flow: 
+- Status: thu nhận mẫu -> validate mẫu
++ Nếu mẫu fail -> lấy lại
++ Nếu thành công -> xử lý mẫu
++ Sau khi thành công, tùy thuộc gói dịch vụ sẽ trả báo cáo tương ứng
